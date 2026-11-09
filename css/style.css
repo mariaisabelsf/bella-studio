@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
 
 :root {
-    --cor-fundo: #E8DED2;
+    --cor-fundo: #e4ded8;
     --cor-principal: #6b5143;
     --cor-secundaria: #c5a889;
     --cor-texto: #332820;
@@ -12,7 +12,6 @@
 }
 
 /* RESET */
-
 * {
     margin: 0;
     padding: 0;
@@ -30,13 +29,11 @@ body {
 }
 
 /* TÍTULOS */
-
 h1, h2, h3 {
     font-family: var(--fonte-titulo);
 }
 
 /* LINKS */
-
 a {
     text-decoration: none;
     color: inherit;
@@ -58,7 +55,6 @@ header {
 }
 
 /* LOGO */
-
 .logo {
     font-family: var(--fonte-titulo);
     font-size: 26px;
@@ -67,7 +63,6 @@ header {
 }
 
 /* MENU */
-
 .nav-links {
     display: flex;
     align-items: center;
@@ -86,7 +81,6 @@ header {
 }
 
 /* BOTÃO */
-
 .btn-agendar {
     display: inline-block;
     background-color: var(--cor-principal);
@@ -151,9 +145,7 @@ header {
     padding: 16px 28px;
 }
 
-
 /* SEÇÃO SOBRE */
-
 .sobre {
     padding: 100px 10%;
     background-color: #eee7df;
@@ -199,7 +191,6 @@ header {
 .titulo-secao p {
     line-height: 1.8;
 }
-
 
 /* ORGANIZAÇÃO DOS CARDS */
 .servicos-container {
