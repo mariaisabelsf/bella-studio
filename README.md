@@ -1,4 +1,5 @@
 # ✨ Bella Studio — Site para Salão de Beleza
+![Bella Studio - Prévia do site](assets/images/bella-studio-preview.png)
 
 Projeto de desenvolvimento front-end criado para simular o site institucional de um salão de beleza. O Bella Studio apresenta os serviços do estabelecimento, sua identidade visual e formas de contato com os clientes.
 
